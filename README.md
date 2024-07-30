@@ -1,6 +1,3 @@
-Here's an engaging and entertaining README.md for your segmented_docstring project:
-
-```markdown
 # 🐍✂️ Segmented Docstring: Split Your Python, Not Your Hairs!
 
 [![PyPI version](https://badge.fury.io/py/segmented-docstring.svg)](https://badge.fury.io/py/segmented-docstring)
