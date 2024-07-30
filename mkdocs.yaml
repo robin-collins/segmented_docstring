@@ -1,0 +1,10 @@
+site_name: Segmented Docstring
+theme:
+  name: material
+  palette:
+    primary: teal
+repo_url: https://github.com/robin-collins/segmented_docstring
+nav:
+- Home: index.md
+- User Guide: user-guide.md
+- API Reference: api-reference.md
