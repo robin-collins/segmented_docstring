@@ -142,4 +142,4 @@ if __name__ == "__main__":
         logger.error("An error occurred: %s", e)
         sys.exit(1)
 
-__version__ = "0.1.0"
+__version__ = "0.1.8"

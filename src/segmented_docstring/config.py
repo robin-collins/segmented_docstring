@@ -67,4 +67,4 @@ def read_config(config_path: Path = None) -> Dict[str, Any]:
     logger.debug("Final configuration: %s", config)
     return config
 
-__version__ = '0.1.0'
+__version__ = '0.1.8'

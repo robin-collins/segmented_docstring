@@ -11,4 +11,4 @@ from .combiner import combine_files
 from .cli import main as cli_main
 
 __all__ = ['split_file', 'combine_files', 'cli_main']
-__version__ = '0.4.0'
+__version__ = '0.4.33'

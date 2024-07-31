@@ -153,7 +153,14 @@ def process_combine(args: argparse.Namespace, config: dict) -> None:
         else:
             logger.warning("Docstring file not found for: %s", barecode_file)
 
-if __name__ == '__main__':
-    main()
+def entry_point():
+    """
+    Entry point for the command-line interface.
+    This function is called when the package is run as a script.
+    """
+    main(sys.argv[1:])
 
-__version__ = '0.1.0'
+if __name__ == '__main__':
+    entry_point()
+
+__version__ = '0.1.8'

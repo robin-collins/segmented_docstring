@@ -127,4 +127,4 @@ def split_file(input_file_path: str, output_directory: str, barecode_extension: 
 
     logger.info("File split successfully")
 
-__version__ = "0.1.0"
+__version__ = "0.1.9"
